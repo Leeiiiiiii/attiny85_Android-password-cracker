@@ -8,8 +8,8 @@ int wrong_password_time = 30;
 
 
 
-/*-----------------*/
-/*CR Youtube/AdhilTech*/
+
+
 
 int enter_key = 1;
 int auto_screen_on = 1;
