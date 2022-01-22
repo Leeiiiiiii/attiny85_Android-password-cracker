@@ -1,6 +1,6 @@
 # attiny85_Android-password-cracker
 # What you need:
-- Attiny85
+- Attiny85 Microchip
 - Arduino IDE with AVR Board Manager
 - USB Hub
 - OTG cable (Type-C / Micro-USB)
